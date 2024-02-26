@@ -72,10 +72,9 @@
     Here, variables declared outside a function have Global Scope, since they can be accessed from anywhere in a JavaScript program.
     When declared outside a function, variables declared with var, let and const are quite similar because they all have Global Scope:
 */
-    var my_int = 64;       // Global scope
-    let my_int = 32;       // Global scope
-    const my_int = 16;     // Global scope
-
+//   var my_int = 64;       // Global scope
+//    let my_int = 32;       // Global scope
+//    const my_int = 16;     // Global scope - 
 
 //Final Note: 
 /*
